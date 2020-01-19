@@ -9,3 +9,5 @@ Here are some useful commands and links:
   https://www.freecodecamp.org/news/create-a-free-static-site-with-github-pages-in-10-minutes/
 
 - Incorporate Jupyter-Notebooks in blog posts: https://briancaffey.github.io/2016/03/14/ipynb-with-jekyll.html
+
+- Basically Basic Theme: https://github.com/mmistakes/jekyll-theme-basically-basic

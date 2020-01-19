@@ -29,7 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  winesitter
 
 # Build settings
-theme: minima
+#theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
 
